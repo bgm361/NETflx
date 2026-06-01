@@ -1,2 +1,2 @@
-16.04.2026 da bitti staj döneminde yaptım 
-deneme projem
+Experimental Project Developed During My Internship
+Completion Date: 16.04.2026
